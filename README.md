@@ -30,5 +30,8 @@ Burnout Analyzer adalah aplikasi berbasis **Streamlit** yang membantu mengidenti
    git clone https://github.com/prayogaaji/Healthflux.git
    cd Healthflux
    pip install -r requirements.txt
+   ```
 2. **Run Apps**
+   ```bash
    streamlit run healthflux_burnout_analyzer.py
+   ```
