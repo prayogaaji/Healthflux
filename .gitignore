@@ -1,0 +1,48 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+*.so
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.whl
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+.stcache/
+.stcache-dev/
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# IDE/Editor
+.vscode/
+.idea/
+*.iml
+
